@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=nuwan123-png&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views">
 </div>
 
-
-
-
+<!--hero img-->
+<div align="center" style="border:4px solid #fff;">
+  <img src="https://github.com/nuwan123-png/nuwan123-png/blob/3294550e66454d6f06dc3c81330ea8500ae09545/pngegg.png" alt="Profile Image" style="width:60%;">
+</div>
 
