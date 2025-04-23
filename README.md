@@ -13,3 +13,11 @@
   <img src="https://github.com/nuwan123-png/nuwan123-png/blob/3294550e66454d6f06dc3c81330ea8500ae09545/pngegg.png" alt="Profile Image" style="width:60%;">
 </div>
 
+<hr>
+
+## 🧑‍💻 About Me
+
+🎓 Currently studying Software Engineering at LNBTI and building real-world systems <br> <br>
+💡 Specializing in backend development with PHP, Java, and MySQL <br>
+<p>🛠 Created  e-commerce &#129528; toystore platforms  and   &#128054; petshop platforms </p> 
+<p>&#128187; My dream: Become a software engineer in japan !</p>
