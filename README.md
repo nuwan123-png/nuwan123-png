@@ -355,7 +355,15 @@ HTML • CSS • Bootstrap
 
 # 💡 Quote
 
-> **"Code. Learn. Build. Repeat."**
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6C63FF,100:9F7AEA&section=footer"/>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Code+with+Passion.;Build+with+Purpose.;Always+Learning+New+Things."/>
+
+</p>
 
 ---
 
