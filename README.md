@@ -184,14 +184,23 @@ HTML • CSS • Bootstrap
 
 </p>
 
-## 🐍 Contribution Snake
+## 💥 Battle Mode
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/nuwan123-png/nuwan123-png/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
 
 </p>
 
+<h2 align="center">
+💥 TARGET DESTROYED 💥
+</h2>
+
+<p align="center">
+
+🔥 BOOM 🔥
+
+</p>
 ---
 
 # 📚 Currently Learning
