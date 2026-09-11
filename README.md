@@ -236,7 +236,7 @@
 
 | 🚀 Project | 🛠️ Tech Stack | 🔗 Repository |
 |:-----------|:--------------|:-------------|
-| 🏨 **Hotel Booking System** | PHP • MySQL • Bootstrap | [View Project](https://github.com/nuwan123-png/Hotel-booking-system) |
+| 🏨 **Hotel Booking System** | PHP • MySQL • Bootstrap | [View Project](https://github.com/nuwan123-png/Hotel-booking-system-) |
 | 🧸 **BTOYS Marketplace** | PHP • Bootstrap • MySQL | [View Project](https://github.com/nuwan123-png/BTOYS-toys-management-system) |
 | 🐶 **Pet Store Website** | HTML • CSS • Bootstrap | [View Project](https://github.com/nuwan123-png/Pet-store) |
 | 🚗 **Vehicle Management System** | C++ | [View Project](https://github.com/nuwan123-png/Vehicle-management-system) |
