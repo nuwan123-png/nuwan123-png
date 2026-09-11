@@ -38,11 +38,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dinidu-payoe-b286483a0/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dinidunuwanakalanka@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -122,6 +122,47 @@
 
 ---
 
+## 🎓 Academic Journey
+
+<table align="center">
+<tr>
+<td width="35%">
+
+### 🎓 BSc. (Hons)
+
+**Computer Software Engineering**
+
+🏫 LNBTI – Japanese IT University
+
+📅 2023 – Present
+
+</td>
+
+<td width="35%">
+
+### 📘 G.C.E. A/L
+
+**Technology Stream**
+
+🏫 Sri Sanghabodhi M.M.V.
+
+📅 2020 – 2022
+
+</td>
+
+<td width="30%">
+
+### 📗 G.C.E. O/L
+
+🏫 Sri Sanghabodhi M.M.V.
+
+📅 Completed 2019
+
+</td>
+
+</tr>
+</table>
+
 # 🚀 Featured Projects
 
 # 📂 Projects
@@ -161,7 +202,21 @@
  Laravel ERP
       │
  Flutter Mobile App
+
 ```
+## 🚀 Engineering Highlights
+
+| 💡 Module | 📌 Summary |
+|:--|:--|
+| 🚗 **Fleet ERP** | Supplier • Dealer • Customer • Device • SIM • Inventory Management |
+| 📦 **Inventory** | Stock Lifecycle • Purchasing • Transfers • Inventory Ledger |
+| 📱 **Provisioning** | IMEI Allocation • SIM Activation • Subscription Lifecycle |
+| 🗺️ **GPS Tracking** | OpenStreetMap • Reverse Geocoding • Trip History |
+| 🔗 **REST APIs** | Laravel ↔ ASP.NET Core Integration |
+| 📄 **Reports** | PDF Reports • Supplier Invoices • Subscription Reports |
+| 🔐 **Security** | JWT • RBAC • Middleware • Authentication |
+| ⚡ **Performance** | Cache • Query Optimization • Logging • Exception Handling |
+| 🧪 **Testing** | Postman • Swagger • Manual Testing |
 
 ---
 
