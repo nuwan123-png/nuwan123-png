@@ -274,11 +274,17 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nuwan123-png&theme=algolia&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nuwan123-png&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nuwan123-png&show_icons=true&theme=tokyonight"/>
 
 </p>
 
