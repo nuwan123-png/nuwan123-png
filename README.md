@@ -118,11 +118,82 @@
 
 # 🚀 Featured Projects
 
-## 🚗 Shalotrack Fleet Management System
+# 📂 Projects
 
-Enterprise Fleet Management System
+---
 
-Laravel 12 • PostgreSQL • Supabase • Google Maps API • Bootstrap
+## 🚛 ShaloTrack — GPS Fleet & Asset Tracking Platform
+
+<p>
+
+<img src="https://img.shields.io/badge/Status-Active-brightgreen"/>
+
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue"/>
+
+<img src="https://img.shields.io/badge/Since-2026-orange"/>
+
+</p>
+
+> Enterprise GPS Fleet Management System developed as an industry project.
+> My contribution focuses on backend architecture, REST APIs, GPS tracking, authentication, database design and system integrations.
+
+### 🏗️ System Architecture
+
+```text
+                 ShaloTrack Platform
+
+ GPS Tracker
+      │
+ TCP/IP
+      │
+ GPS Gateway
+      │
+ PostgreSQL / Supabase
+      │
+ ASP.NET Core API
+      │
+ Laravel ERP
+      │
+ Flutter Mobile App
+```
+
+---
+
+### 🚀 Technologies
+
+- Laravel 12
+- ASP.NET Core
+- PostgreSQL
+- Supabase
+- Google Maps API
+- Bootstrap
+- JavaScript
+- REST API
+- JWT Authentication
+
+---
+
+## 🏨 Hotel Booking System
+
+PHP • MySQL • Bootstrap
+
+🔗 https://github.com/nuwan123-png/Hotel-booking-system
+
+---
+
+## 🧸 BTOYS Marketplace
+
+PHP • Bootstrap • MySQL
+
+🔗 https://github.com/nuwan123-png/BTOYS-toys-management-system
+
+---
+
+## 🐶 Pet Store Website
+
+HTML • CSS • Bootstrap
+
+🔗 https://github.com/nuwan123-png/Pet-store
 
 ---
 
