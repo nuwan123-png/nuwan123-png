@@ -163,8 +163,6 @@
 </tr>
 </table>
 
-# 🚀 Featured Projects
-
 # 📂 Projects
 
 ---
@@ -233,6 +231,8 @@
 - JWT Authentication
 
 ---
+
+# 🚀 Featured Projects
 
 ## 🏨 Hotel Booking System
 
