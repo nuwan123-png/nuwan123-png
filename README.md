@@ -12,6 +12,12 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nuwan123-png&label=Visitors&color=blueviolet"/>
+
+</p>
+
 ## 👨‍💻 About Me
 
 🎓 BSc (Hons) Software Engineering Undergraduate
@@ -237,11 +243,11 @@ HTML • CSS • Bootstrap
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Live Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nuwan123-png&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nuwan123-png&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -252,6 +258,20 @@ HTML • CSS • Bootstrap
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=nuwan123-png&theme=algolia&column=7&margin-w=8&margin-h=8"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuwan123-png&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwan123-png&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nuwan123-png&theme=tokyonight"/>
 
 </p>
 
